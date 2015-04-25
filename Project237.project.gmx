@@ -6,15 +6,11 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-<<<<<<< HEAD
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\carson_test_spr</sprite>
     <sprite>sprites\spr_solid</sprite>
-=======
     <sprite>sprites\spr_alien</sprite>
-    <sprite>sprites\carson_test_spr</sprite>
     <sprite>sprites\spr_alien2</sprite>
->>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
