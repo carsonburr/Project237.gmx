@@ -6,14 +6,19 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-<<<<<<< HEAD
-    <sprite>sprites\spr_alien</sprite>
-=======
+    <sprite>sprites\spr_player</sprite>
     <sprite>sprites\carson_test_spr</sprite>
->>>>>>> origin/master
+    <sprite>sprites\spr_solid</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_player</object>
+    <object>objects\obj_solid</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_001</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
